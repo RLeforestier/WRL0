@@ -5,9 +5,9 @@
  Folder | Subfolder | Contents 
  ------ | --------- | ------- 
  Pointer | header | > verkettung.h
-					 > Main.h
-  |	src | > verkettung.c
-		 			 > Main.c
+ | | > Main.h
+ | src | > verkettung.c
+ | | > Main.c
  VererbungCPP | header | > Angestellter.h
  | | > Manager.h
  | | > Programmierer.h
