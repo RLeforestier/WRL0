@@ -1,0 +1,7 @@
+#Exclude everything
+*.mk
+*.d
+*.o
+.cproject
+.settings
+.project
